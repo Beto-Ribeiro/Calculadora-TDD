@@ -7,7 +7,7 @@ Projeto acadêmico contendo a implementação de calculadoras simples para termi
 
 ---
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```text
 .
@@ -47,7 +47,7 @@ Projeto acadêmico contendo a implementação de calculadoras simples para termi
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### 1. JavaScript (Node.js)
 
@@ -101,8 +101,4 @@ cd python
   python calculadora/main.py
   ```
 
----
 
-## 📄 Relatório Acadêmico
-
-O arquivo [Relatorio_Calculadora_TDD.pdf](Relatorio_Calculadora_TDD.pdf) contém a estruturação completa das etapas do TDD com todos os prints capturados (fases RED, GREEN/PASSOU, CÓDIGO FONTE e FUNCIONOU no terminal).

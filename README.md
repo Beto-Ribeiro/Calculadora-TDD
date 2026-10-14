@@ -7,7 +7,7 @@ Projeto acadêmico contendo a implementação de calculadoras simples para termi
 
 ---
 
-##  Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 .
@@ -19,17 +19,16 @@ Projeto acadêmico contendo a implementação de calculadoras simples para termi
 │   │   ├── teste_sub.js
 │   │   ├── teste_mult.js
 │   │   └── teste_div.js
-│   ├── prints/
-│   │   ├── print_red_div.png
-│   │   ├── print_red_mult.png
-│   │   ├── print_red_soma.png
-│   │   ├── print_red_sub.png
-│   │   ├── print_green_soma.png
-│   │   ├── print_green_sub.png
-│   │   ├── print_green_mult.png
-│   │   ├── print_green_div.png
-│   │   └── print_funcionou.png
-│   └── Relatorio_Calculadora_TDD.pdf
+│   └── prints/
+│       ├── print_red_div.png
+│       ├── print_red_mult.png
+│       ├── print_red_soma.png
+│       ├── print_red_sub.png
+│       ├── print_green_soma.png
+│       ├── print_green_sub.png
+│       ├── print_green_mult.png
+│       ├── print_green_div.png
+│       └── print_funcionou.png
 ├── python/
 │   ├── calculadora/
 │   │   ├── __init__.py
@@ -40,14 +39,13 @@ Projeto acadêmico contendo a implementação de calculadoras simples para termi
 │       ├── teste_sub.py
 │       ├── teste_mult.py
 │       └── teste_div.py
-├── Relatorio_Calculadora_TDD.pdf
 ├── .gitignore
 └── README.md
 ```
 
 ---
 
-##  Como Executar
+## Como Executar
 
 ### 1. JavaScript (Node.js)
 
@@ -100,5 +98,3 @@ cd python
   ```bash
   python calculadora/main.py
   ```
-
-
